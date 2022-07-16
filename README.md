@@ -45,8 +45,8 @@
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=priya-172.priya-172) -->
-![](https://komarev.com/ghpvc/?username=priya-172&color=green&style=flat-square) -->
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=priya-172.priya-172) --> -->
+![](https://komarev.com/ghpvc/?username=priya-172&color=green&style=flat-square) 
 
 <!--
 **priya-172/priya-172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
