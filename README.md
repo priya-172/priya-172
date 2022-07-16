@@ -37,15 +37,17 @@
   </ul>
 </p>
 <a href="https://github.com/priya-172">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya-172&theme=dark&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=priya-172&show_icons=true&theme=dark&line_height=30" alt="Shubhamdeep's github stats"/>
 </a>
 <a href="https://github.com/priya-172">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=priya-172&show_icons=true&theme=dark&line_height=34" alt="Shubhamdeep's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya-172&theme=dark&hide_langs_below=1" />
 </a>
+<br>
+</br>
 
 
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=priya-172.priya-172) --> -->
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=priya-172.priya-172) --> 
 ![](https://komarev.com/ghpvc/?username=priya-172&color=green&style=flat-square) 
 
 <!--
