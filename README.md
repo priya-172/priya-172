@@ -19,7 +19,7 @@
 <p>
   <ul>
   <li>
-  <img alt="GIF" src="https://github.com/priya-172/priya-172/blob/main/to_be_used/Developer.gif" width="40vw" />
+  <img alt="GIF" src="https://github.com/priya-172/priya-172/blob/main/to_be_used/Developer.gif" width="40" />
     
   <em>
      I am a Robot In <a href="https://stcet.org/"> <b>
@@ -28,7 +28,7 @@
   </li>
     
    <li>
-     <img alt="GIF" src="https://github.com/priya-172/priya-172/blob/main/to_be_used/PC.gif" width="40vw" />
+     <img alt="GIF" src="https://github.com/priya-172/priya-172/blob/main/to_be_used/PC.gif" width="40" />
   <em>
      Watch My Coding Skills In<ins> C, C++, Java </ins> <a href="https://github.com/priya-172"> <b>here</b> </a> and <a href="https://leetcode.com/priyapramanick_17/"> <b>here</b> </a> too.
   </em>  
