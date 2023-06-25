@@ -22,7 +22,7 @@
   <img alt="GIF" src="https://github.com/priya-172/priya-172/blob/main/to_be_used/Developer.gif" width="40" />
     
   <em>
-     I am a Robot In <a href="https://stcet.org/"> <b>
+     I am a STUDENT at <a href="https://stcet.org/"> <b>
      St. Thomas' College of Engineering & Technology</b></a>.  
   </em>  
   </li>
