@@ -17,12 +17,7 @@
 ## About me
 
 <p>
-  <ul>
-  <li>
-  <img alt="GIF" src="https://github.com/priya-172/priya-172/blob/main/to_be_used/Developer.gif" width="40" />
-    
-  </li>
-    
+  <ul>   
    <li>
      <img alt="GIF" src="https://github.com/priya-172/priya-172/blob/main/to_be_used/PC.gif" width="40" />
   <em>
